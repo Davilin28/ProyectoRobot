@@ -1,20 +1,14 @@
                                                    Proyecto Robot                
     
 
-
-
-Lenguajes a determinar:
+Lenguajes a utilizar:
     Arduino, SQLite, Android, Php.
-
-
-
+    
 Programas:
     Android Studio
     Arduino(C++) o BQbowi(scratch)
     SQLite
     PHPmyAdmin
-
-
 
 Metodologia Scrum:
 
