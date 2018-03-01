@@ -1,33 +1,33 @@
                                                    Proyecto Robot                
     
-Lenguajes a utilizar:
+<b>Lenguajes a utilizar:</b>
   - Arduino
   - SQLite
   - Android
   - Php.
     
-Programas:
+<b>Programas:</b>
   - Android Studio
   - Arduino(C++) o BQbowi(scratch)
   - SQLite
   - PHPmyAdmin
 
-Metodologia Scrum:
+<b>Metodologia Scrum:</b>
 
-Primer Sprint: (02/03/2018)
+<b>Primer Sprint: (02/03/2018)</b>
   - Foto de montaje
   - Testeo de montaje anclaje etc..
   - Crear PowerPoint
   - Buscar información sobre la placa y sus componentes
 
-Segundo sprint:
+<b>Segundo sprint:</b>
   - Intentar que se mueva para adelante
   - Mover hacia delante, atrás y hacia los lados de forma aleatoria.
   - Programar detección de objetos con los sensores de abajo y los ojos
   - Diseño de la aplicación APP- > Control remoto, sin programación. (Boceto)
   - Crear las dos plantillas tanto logeo como control remoto(con alguna funcionalidad, stop,start).
 
-Tercer sprint (Junio):
+<b>Tercer sprint (Junio):</b>
   - Desarrollo de la APP finalizado.
   - Logeo con creación de dos usuarios en una base de datos.
   - Conexion robot móvil.
