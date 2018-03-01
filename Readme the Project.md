@@ -1,4 +1,4 @@
-                                                   Proyecto Robot                
+<h1 aling="center">Proyecto Robot</h1>
     
 <b>Lenguajes a utilizar:</b>
   - Arduino
