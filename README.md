@@ -5,7 +5,6 @@ Proyecto Robot
 - Lenguajes a utilizar:
 
   - Arduino
-  - Php.
   - C#
   - Linq
 
@@ -13,8 +12,6 @@ Proyecto Robot
 
   - Xamarin
   - Arduino(C++) o BQbowi(scratch)
-  - SQLite
-  - PHPmyAdmin
   - Visual Studio
 
 - Metodologia Scrum:
