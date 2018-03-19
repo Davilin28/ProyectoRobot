@@ -8,13 +8,16 @@ Proyecto Robot
   - SQLite
   - Android
   - Php.
+  - C#
+  - Linq
 
 - Programas:
 
-  - Android Studio
+  - Xamarin
   - Arduino(C++) o BQbowi(scratch)
   - SQLite
   - PHPmyAdmin
+  - Visual Studio
 
 - Metodologia Scrum:
 
