@@ -5,8 +5,6 @@ Proyecto Robot
 - Lenguajes a utilizar:
 
   - Arduino
-  - SQLite
-  - Android
   - Php.
   - C#
   - Linq
