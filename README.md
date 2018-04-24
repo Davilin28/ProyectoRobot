@@ -4,15 +4,13 @@ Proyecto Robot
 
 - Lenguajes a utilizar:
 
+  - Scratch
   - Arduino
-  - C#
-  - Linq
 
 - Programas:
 
-  - Xamarin
+  - myappinventor
   - Arduino(C++) o BQbowi(scratch)
-  - Visual Studio
 
 - Metodologia Scrum:
 
@@ -34,7 +32,7 @@ Proyecto Robot
 - Tercer sprint (Junio):
 
   - Desarrollo de la APP finalizado.
-  - Logeo con creación de dos usuarios en una base de datos.
+  - Logeo y registro.
   - Conexion robot móvil.
   - Testeo del robot comprobación de errores.
   - Testeo de APP y comprobación de errores.
