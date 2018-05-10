@@ -10,30 +10,37 @@ Proyecto Robot
 - Programas:
 
   - myappinventor
-  - Arduino(C++) o BQbowi(scratch)
+  - Arduino(C++)
 
 - Metodologia Scrum:
 
-- Primer Sprint: (02/03/2018)
+  - Primer Sprint: (02/03/2018)
 
-  - Foto de montaje
-  - Testeo de montaje anclaje etc..
-  - Crear PowerPoint
-  - Buscar información sobre la placa y sus componentes
+    - Foto de montaje
+    - Montaje del reboto
+    - Testeo de montaje anclaje etc..
+    - Crear PowerPoint
+    - Buscar información sobre la placa y sus componentes
+    - Integrar datos en el powerpoint
 
-- Segundo sprint:
+  - Segundo sprint: (11/05/2018)
 
-  - Intentar que se mueva para adelante
-  - Mover hacia delante, atrás y hacia los lados de forma aleatoria.
-  - Programar detección de objetos con los sensores de abajo y los ojos
-  - Diseño de la aplicación APP- > Control remoto, sin programación. (Boceto)
-  - Crear las dos plantillas tanto logeo como control remoto(con alguna funcionalidad, stop,start).
+    - Diseño del boceto de la aplicacion - Control remoto
+    - Crear una app con usuario y contraseña, registro
+    - Crear funciones de movilidad para el robot
+    - Programar los sensores de luz
+    - Empezar con la documentacion del proyecto
+    - Mejorar el power point
+    - Crear una app con los controles para manejar el robot
+    - Union de aplicaciones creadas (Login y control remoto)
 
-- Tercer sprint (Junio):
+  - Tercer sprint (Junio):
 
-  - Desarrollo de la APP finalizado.
-  - Logeo y registro.
-  - Conexion robot móvil.
-  - Testeo del robot comprobación de errores.
-  - Testeo de APP y comprobación de errores.
-  - Terminar la documentación en word, preparación.
+    - Finalizar la aplicacion
+    - Conexion con la base de datos y aplicacion
+    - Crear icono para la aplicacion
+    - Crear funciones para darle utilidad a los sensores de luz
+    - Testeo del robot
+    - Testeo de la aplicacion
+    - Mejorar el diseño de la aplicacion control remoto
+    - Terminar la documentación en word, preparación.
