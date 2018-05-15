@@ -1,7 +1,4 @@
 # ProyectoRobot
-Programming the robot arduino
-Proyecto Robot
-
 - Lenguajes a utilizar:
 
   - Scratch
@@ -14,7 +11,7 @@ Proyecto Robot
 
 - Metodologia Scrum:
 
-  - Primer Sprint: (02/03/2018)
+  - Primer Sprint:
 
     - Fotos del montaje.
     - Montaje del robot.
@@ -23,7 +20,7 @@ Proyecto Robot
     - Buscar información sobre la placa y sus componentes.
     - Integrar datos en el powerpoint.
 
-  - Segundo sprint: (11/05/2018)
+  - Segundo sprint:
 
     - Diseño del boceto de la aplicacion (Control remoto).
     - Crear app con usuario/contraseña y registro.
@@ -40,6 +37,8 @@ Proyecto Robot
     - Conexion con la base de datos y aplicacion.
     - Crear icono para la aplicacion.
     - Crear funciones para darle utilidad a los sensores de luz.
+    - Crear funcion robot automático.
+    - Movimiento de la cabeza mediante la rotacion de las ruedas.
     - Testeo del robot.
     - Testeo de la aplicacion.
     - Finalizar la documentación del proyecto.
