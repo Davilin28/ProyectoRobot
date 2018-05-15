@@ -9,7 +9,7 @@
   - myappinventor
   - Arduino(C++)
 
-- Metodologia Scrum:
+- Metodologia Agil (scrum):
 
   - Primer Sprint:
 
