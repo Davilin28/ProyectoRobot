@@ -42,9 +42,11 @@
     - Testeo del robot.
     - Testeo de la aplicacion.
     - Finalizar la documentación del proyecto.
+    
    - Cuarto sprint (Futuro):
-    - Funcionalidad con el sensor ultrasonido.
-    - Funcionalidad con los sensores infrarrojos.
-    - Mejoras en la aplicacion.
-    - Nuevas funciones en el robot.
-    - Innovar en nuevas tecnologias.
+   
+      - Funcionalidad con el sensor ultrasonido.
+      - Funcionalidad con los sensores infrarrojos.
+      - Mejoras en la aplicacion.
+      - Nuevas funciones en el robot.
+      - Innovar en nuevas tecnologias.
