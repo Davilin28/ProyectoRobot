@@ -30,7 +30,7 @@
     - Crear app con los controles para manejar el robot.
     - Union de aplicaciones creadas (Login y control remoto).
 
-  - Tercer sprint (Junio):
+  - Tercer sprint:
 
     - Finalizar la aplicacion.
     - Programar los sensores de luz.
@@ -42,3 +42,9 @@
     - Testeo del robot.
     - Testeo de la aplicacion.
     - Finalizar la documentación del proyecto.
+   - Cuarto sprint (Futuro):
+    - Funcionalidad con el sensor ultrasonido.
+    - Funcionalidad con los sensores infrarrojos.
+    - Mejoras en la aplicacion.
+    - Nuevas funciones en el robot.
+    - Innovar en nuevas tecnologias.
