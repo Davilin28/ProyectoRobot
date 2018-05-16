@@ -38,7 +38,8 @@
     - Crear icono para la aplicacion.
     - Crear funciones para darle utilidad a los sensores de luz.
     - Crear funcion robot automático.
-    - Movimiento de la cabeza mediante la rotacion de las ruedas.
+    - Movimiento de la cabeza.
+    - Cambiar nombre y contraseña del bluetooth del robot.
     - Testeo del robot.
     - Testeo de la aplicacion.
     - Finalizar la documentación del proyecto.
