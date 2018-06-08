@@ -17,35 +17,35 @@ int levantar_1 = 1;
 
 #define pinRuedaIzq                		  8
 #define pinRuedaDrc               		  9
-#define pinMotorCabeza                 11
-#define pinSonido                  	   12
-#define pinLuzIzq           		       A2
-#define pinLuzDrc          			       A3
+#define pinMotorCabeza                		 11
+#define pinSonido                  	  	 12
+#define pinLuzIzq           		         A2
+#define pinLuzDrc          			 A3
 
 // Angulos para los movimientos del servo(Ruedas).
-#define PararRuedas         		       90
-#define RuedaIzqDelan      				      0
-#define RuedaIzqAtras   			        180
-#define RuedaDrcDelan   			        180
-#define RuedaDrcAtras    				        0
+#define PararRuedas         		         90
+#define RuedaIzqDelan      		          0
+#define RuedaIzqAtras   		        180
+#define RuedaDrcDelan   	 	        180
+#define RuedaDrcAtras  		       	          0
 
 // Definiciones para nuestros menus.
-#define MenuPrincipal					          0
-#define MenuEvitaLuz          			    1
-#define MenuSigueLuz					          2
-#define MenuAutomatico					        3
+#define MenuPrincipal			          0
+#define MenuEvitaLuz             		  1
+#define MenuSigueLuz		                  2
+#define MenuAutomatico			          3
 
 // Angulos para la cabeza.
 #define Centro                    		 80  
-#define mIzquierda                    110
-#define mDerecha                     	 50  
+#define mIzquierda                    		110
+#define mDerecha                     	 	 50  
 
 
 // Tamaño del búfer.
 #define CantidadBuffer            		  5
 
 // Delay por defecto.
-#define TiempoRetardo             	   10
+#define TiempoRetardo             	   	 10
 
 // Variable del estado actual.
 int EstadoActual = 0;
